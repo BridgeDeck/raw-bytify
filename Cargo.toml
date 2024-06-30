@@ -2,7 +2,9 @@
 name = "raw-bytify"
 version = "0.1.0"
 edition = "2021"
-
+description = "Utility library for converting structs to bytes and vice-versa."
+license-file = "LICENSE"
+repository = "https://github.com/BridgeDeck/raw-bytify"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
